@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 08ee49f9-2738-2cbe-85d4-6e04eaa3def0
 resourcetype: Document
 title: chp20.pdf
 uid: 5756b535-1978-144c-4f35-bf364319571a

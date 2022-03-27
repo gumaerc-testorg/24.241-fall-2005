@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 08ee49f9-2738-2cbe-85d4-6e04eaa3def0
 resourcetype: Document
 title: chp08.pdf
 uid: 42713539-21cb-27a5-78ac-fa13516d1dad

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 08ee49f9-2738-2cbe-85d4-6e04eaa3def0
 resourcetype: Document
 title: chp05.pdf
 uid: 162f029e-62e6-2b90-6dc8-334a2e89c25b

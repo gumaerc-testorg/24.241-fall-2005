@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 08ee49f9-2738-2cbe-85d4-6e04eaa3def0
 resourcetype: Document
 title: chp15.pdf
 uid: 3c03f5b6-82d9-01c2-60f9-a8774055ca94

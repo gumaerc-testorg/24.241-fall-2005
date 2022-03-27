@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 08ee49f9-2738-2cbe-85d4-6e04eaa3def0
 resourcetype: Document
 title: chp19.pdf
 uid: de627b11-3540-6e2c-9755-fe739cb7c624
