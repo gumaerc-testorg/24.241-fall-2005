@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section includes course description,  course requirements,
+  and collaboration policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f0d31557-bd39-eb08-eb21-5d2b79449217
 ---
@@ -27,7 +31,7 @@ I encourage you to work together on the problems, but when you sit down to write
 Course Calendar
 ---------------
 
-The calendar below provides information on the course topics, which are taken from chapters in the course manuscript. The manuscript entitled _Logic: The Art of Persuasion and the Science of Truth_ was written by the faculty member and is available in the [readings]({{< baseurl >}}/pages/readings) section.
+The calendar below provides information on the course topics, which are taken from chapters in the course manuscript. The manuscript entitled _Logic: The Art of Persuasion and the Science of Truth_ was written by the faculty member and is available in the {{% resource_link 08ee49f9-2738-2cbe-85d4-6e04eaa3def0 "readings" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}
