@@ -5,6 +5,7 @@ file: /courses/24-241-logic-i-fall-2005/2dcf37e2e61aed9862a5f6a16ce9f3d1_chp21.p
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chp21.pdf
 uid: 2dcf37e2-e61a-ed98-62a5-f6a16ce9f3d1
 ---
 This resource includes information on Russell?s theory of definite descriptions.
-

@@ -5,6 +5,7 @@ file: /courses/24-241-logic-i-fall-2005/089f45dcfc402f8641dfddda8f75a038_hw4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw4.pdf
 uid: 089f45dc-fc40-2f86-41df-ddda8f75a038
 ---
 This resource includes four problems on translations.
-

@@ -6,6 +6,7 @@ file: /courses/24-241-logic-i-fall-2005/03111ff5423aa70017fe59ddf67b4e85_chp01.p
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: chp01.pdf
 uid: 03111ff5-423a-a700-17fe-59ddf67b4e85
 ---
 This resource includes information on logic as the science of correct argument.
-

@@ -5,6 +5,7 @@ file: /courses/24-241-logic-i-fall-2005/5756b5351978144c4f35bf364319571a_chp20.p
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chp20.pdf
 uid: 5756b535-1978-144c-4f35-bf364319571a
 ---
 This resource includes information on predicate calculus with identity.
-

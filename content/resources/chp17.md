@@ -6,6 +6,7 @@ file: /courses/24-241-logic-i-fall-2005/a6a2559ca168d6f7af1b32d2a017dbeb_chp17.p
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: chp17.pdf
 uid: a6a2559c-a168-d6f7-af1b-32d2a017dbeb
 ---
 This resource includes information on defination, derivation of compactness theorem, and lowenhiem-skolem theorem.
-
