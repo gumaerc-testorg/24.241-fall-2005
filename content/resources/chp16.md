@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes information on tautological consequence rule.
-file: /courses/24-241-logic-i-fall-2005/050361d77662511568d016374b80a69c_chp16.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/050361d77662511568d016374b80a69c_chp16.pdf
+file_size: 1004929
 file_type: application/pdf
 learning_resource_types:
 - Readings

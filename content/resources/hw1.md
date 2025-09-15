@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes four problems on sentimental calculus.
-file: /courses/24-241-logic-i-fall-2005/9ce9a621342a4a2b700770d359b0a981_hw1.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/9ce9a621342a4a2b700770d359b0a981_hw1.pdf
+file_size: 59297
 file_type: application/pdf
 learning_resource_types:
 - Assignments

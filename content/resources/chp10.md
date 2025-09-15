@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes information on compactness theorem.
-file: /courses/24-241-logic-i-fall-2005/dd4add545025dba6b55f280d52c02542_chp10.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/dd4add545025dba6b55f280d52c02542_chp10.pdf
+file_size: 570486
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information on logic as the science of correct
   argument.
-file: /courses/24-241-logic-i-fall-2005/03111ff5423aa70017fe59ddf67b4e85_chp01.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/03111ff5423aa70017fe59ddf67b4e85_chp01.pdf
+file_size: 79723
 file_type: application/pdf
 learning_resource_types:
 - Readings

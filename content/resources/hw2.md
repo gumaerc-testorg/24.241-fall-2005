@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes four problems on conjuction and disjunction.
-file: /courses/24-241-logic-i-fall-2005/f7afe40ecc9f91cbee298860dedb164c_hw2.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/f7afe40ecc9f91cbee298860dedb164c_hw2.pdf
+file_size: 49574
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes information on translations.
-file: /courses/24-241-logic-i-fall-2005/30058c95ff0a3161205bd5bd34e37570_chp13.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/30058c95ff0a3161205bd5bd34e37570_chp13.pdf
+file_size: 113543
 file_type: application/pdf
 learning_resource_types:
 - Readings

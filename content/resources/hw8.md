@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes nine problems on ES.
-file: /courses/24-241-logic-i-fall-2005/7ff69a68813f9c9dc28b0eea87aa47f6_hw8.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/7ff69a68813f9c9dc28b0eea87aa47f6_hw8.pdf
+file_size: 56360
 file_type: application/pdf
 learning_resource_types:
 - Assignments

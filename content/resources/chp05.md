@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information on couple of theorems which, are worth
   noticing because they?re useful as a tool for proving other theorems.
-file: /courses/24-241-logic-i-fall-2005/162f029e62e62b906dc8334a2e89c25b_chp05.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/162f029e62e62b906dc8334a2e89c25b_chp05.pdf
+file_size: 187948
 file_type: application/pdf
 learning_resource_types:
 - Readings

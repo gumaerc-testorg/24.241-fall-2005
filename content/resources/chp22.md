@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes information on logical research.
-file: /courses/24-241-logic-i-fall-2005/1f5a1e7e17e32aa125d69165621fa6e4_chp22.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/1f5a1e7e17e32aa125d69165621fa6e4_chp22.pdf
+file_size: 68945
 file_type: application/pdf
 learning_resource_types:
 - Readings

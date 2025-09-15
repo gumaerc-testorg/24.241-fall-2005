@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes information on predicate calculus with identity.
-file: /courses/24-241-logic-i-fall-2005/5756b5351978144c4f35bf364319571a_chp20.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/5756b5351978144c4f35bf364319571a_chp20.pdf
+file_size: 146385
 file_type: application/pdf
 learning_resource_types:
 - Readings

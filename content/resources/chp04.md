@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes information on linguistics and semantics.
-file: /courses/24-241-logic-i-fall-2005/38feb11e2ced1de9acb1473b113cb99d_chp04.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/38feb11e2ced1de9acb1473b113cb99d_chp04.pdf
+file_size: 148216
 file_type: application/pdf
 learning_resource_types:
 - Readings

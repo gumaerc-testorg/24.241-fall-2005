@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes three problems on translation of sentences.
-file: /courses/24-241-logic-i-fall-2005/b0c90134f0cecfe3b81d380f003eb897_hw9.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/b0c90134f0cecfe3b81d380f003eb897_hw9.pdf
+file_size: 73713
 file_type: application/pdf
 learning_resource_types:
 - Assignments

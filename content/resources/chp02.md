@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes information on key ideas for sets and functions.
-file: /courses/24-241-logic-i-fall-2005/ae0403947d49da2529133069ea4d1ccc_chp02.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/ae0403947d49da2529133069ea4d1ccc_chp02.pdf
+file_size: 311705
 file_type: application/pdf
 learning_resource_types:
 - Readings

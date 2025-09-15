@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes six problems on tautology.
-file: /courses/24-241-logic-i-fall-2005/c8d5037525f8b4e124e8c741cbf505dd_hw7.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/c8d5037525f8b4e124e8c741cbf505dd_hw7.pdf
+file_size: 61253
 file_type: application/pdf
 learning_resource_types:
 - Assignments

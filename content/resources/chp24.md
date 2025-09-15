@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information on derivation and defination of language
   of Boolean algebra,
-file: /courses/24-241-logic-i-fall-2005/c4373d5bfe74828191c5ccdca5337f07_chp24.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/c4373d5bfe74828191c5ccdca5337f07_chp24.pdf
+file_size: 202485
 file_type: application/pdf
 learning_resource_types:
 - Readings

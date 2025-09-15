@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes information on theory of "IFs".
-file: /courses/24-241-logic-i-fall-2005/91f3cee88cd4083f02543b9305776f21_chp14.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/91f3cee88cd4083f02543b9305776f21_chp14.pdf
+file_size: 33606
 file_type: application/pdf
 learning_resource_types:
 - Readings

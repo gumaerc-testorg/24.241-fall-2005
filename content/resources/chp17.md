@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information on defination, derivation of compactness
   theorem, and lowenhiem-skolem theorem.
-file: /courses/24-241-logic-i-fall-2005/a6a2559ca168d6f7af1b32d2a017dbeb_chp17.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/a6a2559ca168d6f7af1b32d2a017dbeb_chp17.pdf
+file_size: 289274
 file_type: application/pdf
 learning_resource_types:
 - Readings

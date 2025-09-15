@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information on proof, definations, and lemmas
   for compactness theorem.
-file: /courses/24-241-logic-i-fall-2005/7fa7d6cf51adb113e61d321821cc2b8e_chp09.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/7fa7d6cf51adb113e61d321821cc2b8e_chp09.pdf
+file_size: 113104
 file_type: application/pdf
 learning_resource_types:
 - Readings

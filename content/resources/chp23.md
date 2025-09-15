@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information on predicate calculus with identity
   and function signs.
-file: /courses/24-241-logic-i-fall-2005/8a0fbc27c4b2fe95536a7735cd60cc9a_chp23.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/8a0fbc27c4b2fe95536a7735cd60cc9a_chp23.pdf
+file_size: 155095
 file_type: application/pdf
 learning_resource_types:
 - Readings

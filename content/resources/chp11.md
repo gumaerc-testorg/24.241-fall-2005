@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes information on soundness and completeness theorem.
-file: /courses/24-241-logic-i-fall-2005/4de89fe84417c159a50610c4eb94c60d_chp11.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/4de89fe84417c159a50610c4eb94c60d_chp11.pdf
+file_size: 188886
 file_type: application/pdf
 learning_resource_types:
 - Readings

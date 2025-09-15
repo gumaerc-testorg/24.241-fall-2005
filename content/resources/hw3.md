@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes five problems on writing sentence logical equivalent.
-file: /courses/24-241-logic-i-fall-2005/3682a6b902d0dabc2c3ce5708c1bf0e5_hw3.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/3682a6b902d0dabc2c3ce5708c1bf0e5_hw3.pdf
+file_size: 50600
 file_type: application/pdf
 learning_resource_types:
 - Assignments

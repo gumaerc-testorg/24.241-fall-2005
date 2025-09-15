@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes information on Russell?s theory of definite descriptions.
-file: /courses/24-241-logic-i-fall-2005/2dcf37e2e61aed9862a5f6a16ce9f3d1_chp21.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/2dcf37e2e61aed9862a5f6a16ce9f3d1_chp21.pdf
+file_size: 86179
 file_type: application/pdf
 learning_resource_types:
 - Readings

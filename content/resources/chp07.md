@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes information on subsitution theorems.
-file: /courses/24-241-logic-i-fall-2005/193ecc67b5fc23962c740a3be50cae36_chp07.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/193ecc67b5fc23962c740a3be50cae36_chp07.pdf
+file_size: 98943
 file_type: application/pdf
 learning_resource_types:
 - Readings

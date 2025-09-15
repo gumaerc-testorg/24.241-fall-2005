@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information on derived rule for biconditional
   introduction, and subsitution of equivalents.
-file: /courses/24-241-logic-i-fall-2005/338f482a2e877ff348a95c24133e1520_chp12.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/338f482a2e877ff348a95c24133e1520_chp12.pdf
+file_size: 274302
 file_type: application/pdf
 learning_resource_types:
 - Readings

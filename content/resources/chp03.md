@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information on formal languages of the sentential
   calculus.
-file: /courses/24-241-logic-i-fall-2005/9fdcd87825807db221af90eb08321519_chp03.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/9fdcd87825807db221af90eb08321519_chp03.pdf
+file_size: 85851
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes information on proof procedure.
-file: /courses/24-241-logic-i-fall-2005/3da3ce777874efcba6e1f3d80a616bed_chp06.pdf
+file: /ol-ocw-studio-app/courses/24-241-logic-i-fall-2005/3da3ce777874efcba6e1f3d80a616bed_chp06.pdf
+file_size: 76683
 file_type: application/pdf
 learning_resource_types:
 - Readings
